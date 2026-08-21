@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eye Tracking Demo</title>
+  <link rel="stylesheet" href="project/readme/eye-demo/styles.css">
+</head>
+<body>
+  <main class="stage">
+    <section class="eye-card" aria-label="Animated left eye">
+      <span class="eyebrow">Eye tracking / visual demo</span>
+      <div class="eye" id="leftEye" aria-hidden="true">
+        <div class="iris">
+          <div class="pupil"></div>
+          <span class="highlight"></span>
+        </div>
+      </div>
+      <p class="instruction">Move your cursor around the page</p>
+      <span class="status"><i></i> Simulated gaze response</span>
+    </section>
+  </main>
+  <script src="project/readme/eye-demo/script.js"></script>
+</body>
+</html>

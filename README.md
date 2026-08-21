@@ -32,7 +32,7 @@ flowchart LR
 		smooth --> mouse((Mouse pointer))
 ```
 
-> **Try the visual idea:** the linked browser demo is a small JavaScript eye that follows your cursor. It is a safe, camera-free preview of the interaction, published as a GitHub Pages site because GitHub blocks JavaScript inside Markdown.
+> **Try the visual idea:** the linked browser demo is a small JavaScript eye that follows your cursor. It is a safe, camera-free preview of the interaction, published as the repository's GitHub Pages home because GitHub blocks JavaScript inside Markdown.
 
 ## Start here
 
