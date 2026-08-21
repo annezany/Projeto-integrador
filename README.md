@@ -7,7 +7,7 @@
 Track the movement of your left eye with an ordinary webcam and turn your gaze into a mouse position.
 
 <p>
-	<a href="./project/readme/eye-demo/index.html"><strong>Open the interactive eye demo</strong></a>
+	<a href="https://annezany.github.io/Projeto-integrador/"><strong>Open the interactive eye demo</strong></a>
 	&nbsp;&nbsp;·&nbsp;&nbsp;
 	<a href="./project/readme/README.md">Read the full project guide</a>
 </p>
@@ -32,7 +32,7 @@ flowchart LR
 		smooth --> mouse((Mouse pointer))
 ```
 
-> **Try the visual idea:** the linked browser demo is a small JavaScript eye that follows your cursor. It is a safe, camera-free preview of the interaction. GitHub blocks JavaScript inside Markdown, so the demo opens as a separate local page instead of running inside this README.
+> **Try the visual idea:** the linked browser demo is a small JavaScript eye that follows your cursor. It is a safe, camera-free preview of the interaction, published as a GitHub Pages site because GitHub blocks JavaScript inside Markdown.
 
 ## Start here
 
@@ -97,7 +97,7 @@ This is an interaction prototype, not a calibrated accessibility device. Results
 ## Documentation
 
 - [Full project guide](./project/readme/README.md)
-- [Interactive browser eye demo](./project/readme/eye-demo/index.html)
+- [Interactive browser eye demo](https://annezany.github.io/Projeto-integrador/)
 - [Python tracker](./project/main.py)
 
 <div align="center">

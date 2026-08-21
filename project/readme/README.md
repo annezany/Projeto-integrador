@@ -2,7 +2,7 @@
 
 > A hands-free mouse prototype controlled by the movement of your left eye.
 
-[Open the interactive eye demo](./eye-demo/index.html)
+[Open the interactive eye demo](https://annezany.github.io/Projeto-integrador/)
 
 ![Project status](https://img.shields.io/badge/status-working-73b947)
 ![Python](https://img.shields.io/badge/python-3.10%2B-3776AB)
@@ -16,7 +16,7 @@ The pointer is smoothed before it moves, so small changes in gaze do not create 
 
 ## See it in action
 
-The small eye above is a JavaScript demonstration of the same interaction idea: move your cursor around the page and the iris follows it. It is intentionally lightweight and self-contained so it can be opened directly in a browser.
+The small eye above is a JavaScript demonstration of the same interaction idea: move your cursor around the page and the iris follows it. It is intentionally lightweight and self-contained, and is published as a GitHub Pages site.
 
 The real tracker uses the webcam and Python. The browser demo is only a visual explanation; it does not access the camera or move the system pointer.
 
